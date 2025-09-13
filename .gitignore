@@ -1,0 +1,19 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+
+# Generated test paper
+test_paper.tex
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Counter file (auto-generated)
+counter.txt
+
+# Output folder (if you add one later)
+outputs/
